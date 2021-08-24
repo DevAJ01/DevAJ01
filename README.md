@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevAJ01
-- 👀 I’m interested in Space, Science, codding & Porgramming
+- 👀 I’m interested in Space, Science, codding & Programming
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ashanj1@outlook.com
