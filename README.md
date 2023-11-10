@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevAJ01
-- 👀 I’m interested in Space, Medical Science, codding & Programming
+- 👀 I’m interested in Space, Medical & Pharmaceutical Science, codding & Programming
 - 📫 How to reach me ashanj1@outlook.com
 
 <!---
